@@ -1,1 +1,1 @@
-# python_iris
+# Iris model made only with Python
